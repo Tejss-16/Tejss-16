@@ -16,11 +16,10 @@ Data Science • Machine Learning • Artificial Intelligence
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year Computer Science Engineering (Data Science) Student
-- 📊 Interested in Data Science, Machine Learning & Data Analytics
+- 📊 Interested in Data Science, Machine Learning & AI
 - 🤖 Exploring Artificial Intelligence, Computer Vision & Generative AI
 - 💻 Building data-driven applications using Python and modern frameworks
-- 🌱 Currently learning Django, FastAPI and advanced Machine Learning
+- 🌱 Currently learning RAG systems and advanced Machine Learning
 
 ---
 
