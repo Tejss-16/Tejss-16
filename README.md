@@ -24,7 +24,7 @@ Data Science • Machine Learning • Artificial Intelligence
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 
@@ -60,7 +60,7 @@ Data Science • Machine Learning • Artificial Intelligence
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
 
